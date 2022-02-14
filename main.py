@@ -29,7 +29,7 @@ email = input("Insert the account's email: ")
 password = "38cf4d8080c1a66172c4a91e76b822140f029e10a00e3615be6eb8a0f3331ffd"  # some_hash('gatolouco'+unknow_key)
 
 
-# the endpoint to connect with the websocket
+# the endpoint to connect with the websocket (THE WEBSOCKET HAS CHANGED) How to find it out?
 _uri = "wss://ws01.exitlag.com/exitlag_client"
 
 
